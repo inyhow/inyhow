@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**inyhow/inyhow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=inyhow&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-Here are some ideas to get you started:
+## I'm inyhow - a self-taught Open source contributor. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# My main projects:
+
+- [DedeFix](https://github.com/inyhow/layuimini) - 🚀 基于百度SEO优化的Dede v5.7版本 lang = php。
+- [multiSite2OnePay](https://github.com/inyhow/multiSite2OnePay) - 🚀 针对paypal提供一个仿牌站支付多站解决思路。
+  
+
+
+# 🏆 Github Profile Trophy
+
+![](https://github-profile-trophy.vercel.app/?username=inyhow&theme=flat&column=8)
+
+# 🏆 常用的语言
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inyhow&layout=compact&hide=css,javascript,html)](https://github.com/anuraghazra/github-readme-stats)
