@@ -7,7 +7,7 @@
 
 # Main projects:
 
-- [DedeFix](https://github.com/inyhow/layuimini) - 🚀 基于百度SEO优化的Dede v5.7版本 lang = php。
+- [DedeFix](https://github.com/inyhow/DedeFix) - 🚀 基于百度SEO优化的Dede v5.7版本 lang = php。
 - [multiSite2OnePay](https://github.com/inyhow/multiSite2OnePay) - 🚀 针对paypal提供一个仿牌站支付多站解决思路。
   
 
