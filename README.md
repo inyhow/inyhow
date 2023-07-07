@@ -9,7 +9,7 @@
 
 - [DedeFix](https://github.com/inyhow/DedeFix) - 🚀 基于百度SEO优化的Dede v5.7版本 lang = php。
 - [multiSite2OnePay](https://github.com/inyhow/multiSite2OnePay) - 🚀 针对paypal提供一个仿牌站支付多站解决思路。
-  
+- [wp-plugins](https://github.com/inyhow/wp-plugins) - 🚀 更新了幾個自己開發的wordpress插件，支持到wp6.2
 
 
 # 🏆 Github Profile Trophy
@@ -18,4 +18,4 @@
 
 # 🏆 常用的语言
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inyhow&layout=compact&hide=css,javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inyhow&layout=compact&hide=css,javascript,python,html)](https://github.com/anuraghazra/github-readme-stats)
