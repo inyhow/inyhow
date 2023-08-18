@@ -7,10 +7,10 @@
 
 # Main projects:
 
-- [DedeFix](https://github.com/inyhow/DedeFix) - 🚀 基于百度SEO优化的Dede v5.7版本 lang = php。
+- [AutoResumeRefresh](https://github.com/inyhow/AutoResumeRefresh) - 🚀 基于python开发的自动简历刷新。
 - [multiSite2OnePay](https://github.com/inyhow/multiSite2OnePay) - 🚀 针对paypal提供一个仿牌站支付多站解决思路。
 - [wp-plugins](https://github.com/inyhow/wp-plugins) - 🚀 更新了幾個自己開發的wordpress插件，支持到wp6.2
-
+- [hejiWeather](https://github.com/inyhow/hejiWeather) - 🚀 微信小程序 和迹天气
 
 # 🏆 Github Profile Trophy
 
