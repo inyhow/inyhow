@@ -12,10 +12,6 @@
 - [wp-plugins](https://github.com/inyhow/wp-plugins) - 🚀 更新了幾個自己開發的wordpress插件，支持到wp6.2
 - [hejiWeather](https://github.com/inyhow/hejiWeather) - 🚀 微信小程序 和迹天气
 
-# 🏆 Github Profile Trophy
-
-![](https://github-profile-trophy.vercel.app/?username=inyhow&theme=flat&column=8)
-
 # 🏆 常用的语言
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inyhow&layout=compact)]([[https://github.com/inyhow/])
