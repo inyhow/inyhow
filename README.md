@@ -11,6 +11,7 @@
 - [multiSite2OnePay](https://github.com/inyhow/multiSite2OnePay) - 🚀 针对paypal提供一个仿牌站支付多站解决思路。
 - [wp-plugins](https://github.com/inyhow/wp-plugins) - 🚀 更新了幾個自己開發的wordpress插件，支持到wp6.2
 - [hejiWeather](https://github.com/inyhow/hejiWeather) - 🚀 微信小程序 和迹天气
+- [nameCheapDNS](https://github.com/inyhow/BatchNameCheapDNS) - 🚀 基于python开发的批量修改namecheap DNS解析记录。
 
 # 🏆 常用的语言
 
